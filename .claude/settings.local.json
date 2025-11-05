@@ -1,0 +1,13 @@
+{
+    "permissions": {
+        "allow": [
+            "Bash(npx shadcn@latest add:*)",
+            "Bash(php artisan:*)",
+            "Bash(vendor/bin/pint:*)",
+            "Bash(npm run build:*)",
+            "Bash(find:*)",
+            "Bash(npm install:*)"
+        ]
+    },
+    "enabledMcpjsonServers": ["laravel-boost"]
+}
